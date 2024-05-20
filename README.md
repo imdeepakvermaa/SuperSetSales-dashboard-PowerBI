@@ -1,4 +1,6 @@
 # My Project
+dataset is given in the repo file.
+
 
 Here is an overview of the sales insight dashboard I created:
 
